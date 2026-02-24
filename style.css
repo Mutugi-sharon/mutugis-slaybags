@@ -1,0 +1,36 @@
+body {
+    background-color: silver;
+    color: black;
+    text-align: center;
+    font-family: Arial;
+}
+
+nav {
+    background-color: blue;
+    padding: 10px;
+}
+
+nav a {
+    color: silver;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.box {
+    display: inline-block;
+    background-color: blue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.box img {
+    width: 200px;
+    height: 200px;
+}
+
+footer {
+    background-color: blue;
+    color: silver;
+    padding: 10px;
+}
